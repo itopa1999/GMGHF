@@ -630,6 +630,31 @@ section {
   background: #e03a3c;
 }
 
+
+.about-btn1 {
+  padding: 8px 30px 9px 30px;
+  color: #fff;
+  border-radius: 50px;
+  transition: 0.3s;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-size: 13px;
+  display: inline-flex;
+  align-items: center;
+  border: 2px solid #e03a3c;
+}
+
+.about-btn1 i {
+  font-size: 16px;
+  padding-left: 5px;
+}
+
+.about-btn1:hover {
+  background: #e35052;
+  background: #e03a3c;
+}
+
+
 .about .icon-boxes .icon-box {
   margin-top: 30px;
 }
@@ -853,6 +878,15 @@ section {
   margin-left: 70px;
   line-height: 24px;
   font-size: 14px;
+}
+
+.icon-box1 {
+  transition: 0.3s;
+  position: relative;
+}
+
+ .icon-box1:hover {
+  color: white;
 }
 
 /*--------------------------------------------------------------
